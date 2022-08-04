@@ -8,7 +8,7 @@
 
 Para desenvolver essa página fui utilizado HTML e CSS.
 
-## Como acessa?
+## Como acessar?
 
 Você pode acessar o projeto [Clicando aqui!](https://joaofbcastro.github.io/RocketNews/).
 
