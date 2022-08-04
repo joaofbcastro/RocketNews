@@ -47,7 +47,7 @@ header .logo {
 
 main .content {
   width: 44vw;
-  font-size: .875rem;
+  font-size: 0.875rem;
 }
 
 main .content h2.title {
@@ -57,8 +57,8 @@ main .content h2.title {
 }
 
 main .content .subtitle {
-  margin-top: .5rem;
-  margin-bottom: .5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 main form {
@@ -81,13 +81,13 @@ main form input {
   width: 100%;
   height: 3rem;
 
-  font-size: .75rem;
+  font-size: 0.75rem;
   font-weight: 400;
 
   border: none;
 
-  padding: .9rem 1.1rem;
-  padding-right: calc(.9rem + 3rem);
+  padding: 0.9rem 1.1rem;
+  padding-right: calc(0.9rem + 3rem);
   border-left: 5px solid #04d361;
 }
 
