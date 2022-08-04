@@ -1,4 +1,4 @@
-# RocketNews
+<h1 align="center">📰 RocketNews</h1>
 
 ## 💡 O que é²
 
