@@ -14,33 +14,33 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
-  
+
   <!-- CSS -->
   <link rel="stylesheet" href="static/styles/index.css" />
 </head>
 
 <body>
-  <header>
-    <img class="logo" src="static/assets/logo.svg" alt="Logo da RocketNews"></img>
-  </header>
-  <main>
-    <div class="content">
-      <h2 class="title">atualize ideias e informações em 5 minutos.</h2>
-      <h3 class="subtitle">tudo que você precisa saber para começar seu dia bem e informado</h3>
-      <p>
-        noticias sobre o universo Rocketseat, e tudo o que precisa para começar o dia melhor.
-        perfeito para se preparar para codar ☕
-      </p>
-    </div>
-    <form action="">
-      <label for="email">Insira seu e-mail:</label>
-      <div class="input-wrapper">
-        <input type="email" name="email" id="email" placeholder="oi@rocketseat.com">
-        <button type="submit"></button>
+  <section class="main-section">
+    <header class="header">
+      <img class="header__logo" src="static/assets/logo.svg" alt="Logo da RocketNews"></img>
+    </header>
+    <main>
+      <div class="content">
+        <h2 class="content__title">Atualize ideias e informações em 5 minutos.</h2>
+        <h3 class="content__subtitle">tudo que você precisa saber para começar seu dia bem e informado</h3>
+        <p class="content__text">
+          noticias sobre o universo Rocketseat, e tudo o que precisa para começar o dia melhor.
+          perfeito para se preparar para codar ☕
+        </p>
       </div>
-      <a href="#">deixe-me ler primeiro</a>
-    </form>
-  </main>
+      <form class="form-newsletter" action="">
+        <label class="form-newsletter__label" for="email">Insira seu e-mail:</label>
+        <input class="form-newsletter__input" type="email" name="email" id="email" placeholder="oi@rocketseat.com">
+        <button class="button" type="submit"></button>
+        <a class="form-newsletter__link" href="#">deixe-me ler primeiro</a>
+      </form>
+    </main>
+  </section>
 </body>
 
 </html>

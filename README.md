@@ -4,9 +4,12 @@
 
 É uma simples página contendo um formulário para cadastro na Newsletter.
 
+Nesse projeto me desafiei a utilizar a [BEM ( Block Element Modifier)](http://getbem.com/), que é uma metodologia CSS utilizada para reutilização de componentes e compartilhamento de código.
+
 ## 📚 Tecnologias utilizadas
 
-Para desenvolver essa página fui utilizado HTML e CSS.
+- HTML
+- CSS
 
 ## 🚀 Como acessar?
 
