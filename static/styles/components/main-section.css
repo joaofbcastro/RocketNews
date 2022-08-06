@@ -17,8 +17,3 @@
   background: center/cover no-repeat url("../../assets/read_news.jpg");
 }
 
-@media screen and (max-width: 800px) {
-  .main-section::before {
-    width: 0px;
-  }
-}
