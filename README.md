@@ -15,7 +15,7 @@ Nesse projeto me desafiei a utilizar a [BEM ( Block Element Modifier)](http://
 
 ## 🚀 Como acessar?
 
-A página está hospedada no GitHub Pages e pode ser acessada [clicando aqui!](https://joaofbcastro.github.io/RocketNews/).
+A página está hospedada no GitHub Pages e pode ser acessada [clicando aqui](https://joaofbcastro.github.io/RocketNews/)!
 
 ---
 
