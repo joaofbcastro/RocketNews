@@ -1,5 +1,7 @@
 <h1 align="center">📰 RocketNews</h1>
 
+[<img src="static/assets/preview.svg" align="center" alt="Imagem do projeto" />](https://joaofbcastro.github.io/RocketNews/)
+
 ## 💡 O que é²
 
 É uma simples página contendo um formulário para cadastro na Newsletter.
