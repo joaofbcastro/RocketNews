@@ -4,7 +4,7 @@
 
 ## 💡 O que é²
 
-É uma simples página contendo um formulário para cadastro na Newsletter.
+Trata-se de uma simples página contendo um compo de e-mail para cadastro em uma Newsletter. O projeto é na verdade um desafio proposto na plataforma da [@Rocketseat 💜](https://github.com/Rocketseat).
 
 Nesse projeto me desafiei a utilizar a [BEM ( Block Element Modifier)](http://getbem.com/), que é uma metodologia CSS utilizada para reutilização de componentes e compartilhamento de código.
 
@@ -15,7 +15,7 @@ Nesse projeto me desafiei a utilizar a [BEM ( Block Element Modifier)](http://
 
 ## 🚀 Como acessar?
 
-Você pode acessar o projeto [Clicando aqui!](https://joaofbcastro.github.io/RocketNews/).
+A página está hospedada no GitHub Pages e pode ser acessada [clicando aqui!](https://joaofbcastro.github.io/RocketNews/).
 
 ---
 
